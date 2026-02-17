@@ -1,4 +1,4 @@
-![logo](https://github.com/navneet-zone/navneet-zone/blob/main/github_banner.png)
+![logo](https://github.com/navneet-zone/navneet-zone/blob/main/Make%20your%20README.png)
 <h1 align="center">Hi 👋, I'm Navneet Singh Bhakuni</h1>
 <h3 align="center">A passionate Data Analyst/Scientist from India</h3>
 
